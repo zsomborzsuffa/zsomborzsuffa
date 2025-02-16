@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zsomborzsuffa
-- 👀 I’m interested in data engineering, data warehousing, data science, ML, AI, data modelling, data governance, just everything about data
+- 👀 I’m interested in data architecture, data engineering, data warehousing, data science, ML, AI, data modelling, data governance, just everything about data
 - 💞️ I’m looking to collaborate on complex data projects
 - 📫 You can reach me on X @ZsomborZsuffa
 
